@@ -8,6 +8,9 @@
     "skipLibCheck": true
   },
   "include": [
-    "index.ts"
+    "index.ts",
+    "ensureHexFormat.ts",
+    "lighten/index.ts",
+    "darken/index.ts"
   ]
 }
