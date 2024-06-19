@@ -1,6 +1,6 @@
 {
   "name": "color-manipulation-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check contrast of colors HEX",
   "main": "index.js",
   "types": "index.d.ts",
@@ -14,7 +14,9 @@
   },
   "keywords": [
     "Matt Ezekiel",
-    "Contrast"
+    "Contrast",
+    "Color",
+    "Color Manipulation"
   ],
   "author": "Matías Ezequiel Bubello",
   "license": "ISC",
