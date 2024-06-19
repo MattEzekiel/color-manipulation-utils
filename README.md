@@ -1,4 +1,21 @@
 # 🎨 Color Manipulation Utils
+![GitHub Repo stars](https://img.shields.io/github/stars/MattEzekiel/color-manipulation-utils)
+![GitHub watchers](https://img.shields.io/github/watchers/MattEzekiel/color-manipulation-utils)
+![GitHub forks](https://img.shields.io/github/forks/MattEzekiel/color-manipulation-utils)
+
+![Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FMattEzekiel%2Fcolor-manipulation-utils%2Fmaster%2Fpackage.json&query=version&label=version)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
+
+[![Made with Node](https://img.shields.io/badge/node-%3D%3E20-20)](https://nodejs.org)
+[![Package - Yarn](https://img.shields.io/badge/yarn-%3E%3D1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
+[![Package - TypeScript](https://img.shields.io/github/package-json/dependency-version/MattEzekiel/color-manipulation-utils/dev/typescript?logo=typescript&logoColor=white)](https://www.npmjs.com/package/typescript)
+
+[![NPM Package Downloads](https://img.shields.io/npm/dy/color-manipulation-utils)](https://www.npmjs.com/package/color-manipulation-utils)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/MattEzekiel/color-manipulation-utils/total?label=github%20downloads)
+
+![GitHub Issues](https://img.shields.io/github/issues/MattEzekiel/color-manipulation-utils)
+![Pull Requests](https://img.shields.io/github/issues-pr/MattEzekiel/color-manipulation-utils)
+
 
 This package provides utilities for manipulating colors in JavaScript/TypeScript applications.
 
