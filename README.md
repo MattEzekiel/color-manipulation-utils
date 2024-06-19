@@ -1,5 +1,6 @@
 # 🎨 Color Manipulation Utils
-This package provides utilities for manipulating colors in JavaScript/TypeScript applications.
+This package provides utilities for manipulating colors in JavaScript/TypeScript applications. This package can help you to use a better contrast for a background color and a color text.
+
 
 <div align="center">
 
