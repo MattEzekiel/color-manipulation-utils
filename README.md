@@ -36,6 +36,11 @@ Import the `darken` function from `color-manipulation-utils`:
 ````typescript
 import { darken } from 'color-manipulation-utils';
 ````
+or
+
+````typescript
+import darken from 'color-manipulation-utils/darken';
+````
 
 Darken a color:
 
@@ -50,6 +55,11 @@ Import the `lighten` function from `color-manipulation-utils`:
 
 ````typescript
 import { lighten } from 'color-manipulation-utils';
+````
+Or
+
+````typescript
+import lighten from 'color-manipulation-utils/lighten';
 ````
 Lighten a color:
 
