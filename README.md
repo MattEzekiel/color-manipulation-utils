@@ -1,4 +1,8 @@
 # 🎨 Color Manipulation Utils
+This package provides utilities for manipulating colors in JavaScript/TypeScript applications.
+
+<div align="center">
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/MattEzekiel/color-manipulation-utils)
 ![GitHub watchers](https://img.shields.io/github/watchers/MattEzekiel/color-manipulation-utils)
 ![GitHub forks](https://img.shields.io/github/forks/MattEzekiel/color-manipulation-utils)
@@ -16,8 +20,7 @@
 ![GitHub Issues](https://img.shields.io/github/issues/MattEzekiel/color-manipulation-utils)
 ![Pull Requests](https://img.shields.io/github/issues-pr/MattEzekiel/color-manipulation-utils)
 
-
-This package provides utilities for manipulating colors in JavaScript/TypeScript applications.
+</div>
 
 ## Installation
 
