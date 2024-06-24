@@ -72,6 +72,9 @@ const lightenedColor = lighten('#068806', 0.2);
 console.log(lightenedColor); // Outputs a lightened color in hex format
 ````
 
+## Contributing and Issue Tracking
+If you're interested in contributing to wa.me-converter or want to report an issue, please check out our [CONTRIBUTING.md](./CONTRIBUTING.md) guide for detailed information on how to get involved.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/MattEzekiel/color-manipulation-utils/blob/master/LICENCE.md) file for details.
