@@ -75,6 +75,9 @@ console.log(lightenedColor); // Outputs a lightened color in hex format
 ## Contributing and Issue Tracking
 If you're interested in contributing to wa.me-converter or want to report an issue, please check out our [CONTRIBUTING.md](./CONTRIBUTING.md) guide for detailed information on how to get involved.
 
+### Code of conduct
+Respect our [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/MattEzekiel/color-manipulation-utils/blob/master/LICENCE.md) file for details.
