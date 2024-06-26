@@ -30,6 +30,10 @@ You can install the package via npm:
 ````bash
  npm install color-manipulation-utils
 ````
+or
+````bash
+ yarn install color-manipulation-utils
+````
 
 ## Usage
 
