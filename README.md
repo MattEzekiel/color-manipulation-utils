@@ -79,7 +79,7 @@ console.log(lightenedColor); // Outputs a lightened color in hex format
 ## Contributing and Issue Tracking
 If you're interested in contributing to wa.me-converter or want to report an issue, please check out our [CONTRIBUTING.md](./CONTRIBUTING.md) guide for detailed information on how to get involved.
 
-### Code of conduct
+## Code of conduct
 Respect our [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
 
 ## License
