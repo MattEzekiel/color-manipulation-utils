@@ -8,9 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
-"publishConfig": {
-  "registry": "https://npm.pkg.github.com/"
-},
   "repository": {
     "type": "git",
     "url": "https://github.com/MattEzekiel/color-manipulation-utils.git"
