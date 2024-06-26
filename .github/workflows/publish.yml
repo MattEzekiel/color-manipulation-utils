@@ -21,9 +21,6 @@ jobs:
       - name: Configure .npmrc
         run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.NPM_TOKEN }}" > ~/.npmrc
 
-      - name: Install dependencies
-        run: npm install
-
       - name: Publish package
         run: npm publish
         env:
