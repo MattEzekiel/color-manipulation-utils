@@ -26,13 +26,17 @@ This package provides utilities for manipulating colors in JavaScript/TypeScript
 ## Installation
 
 You can install the package via npm:
-
+### npm
 ````bash
  npm install color-manipulation-utils
 ````
-or
+### yarn
 ````bash
  yarn install color-manipulation-utils
+````
+### pnpm
+````bash
+ pnpm add color-manipulation-utils
 ````
 
 ## Usage
