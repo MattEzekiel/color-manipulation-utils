@@ -21,7 +21,8 @@ This package provides utilities for manipulating colors in JavaScript/TypeScript
 ![GitHub Issues](https://img.shields.io/github/issues/MattEzekiel/color-manipulation-utils)
 ![Pull Requests](https://img.shields.io/github/issues-pr/MattEzekiel/color-manipulation-utils)
 
-<a href="https://cafecito.app/mattezekiel" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/cafecito-purple?style=social&logo=buy%20me%20a%20coffee&link=https%3A%2F%2Fcafecito.app%mattezekiel"></a> <a href="https://cafecito.app/mattezekiel" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/buy_me_a_coffee-purple?style=social&logo=buy%20me%20a%20coffee&link=https%3A%2F%2Fwww.buymeacoffee.com%mattezekiel"></a>
+[![Github Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/mattezekiel)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://cafecito.app/mattezekiel)
 
 </div>
 
