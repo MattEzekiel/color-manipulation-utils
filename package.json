@@ -40,7 +40,7 @@
   },
   "homepage": "https://github.com/MattEzekiel/color-manipulation-utils#readme",
   "devDependencies": {
-    "@types/color": "^3.0.6",
+    "@types/color": "^4.2.0",
     "typescript": "^5.5.3"
   },
   "dependencies": {
