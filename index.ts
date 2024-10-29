@@ -1,6 +1,6 @@
-import ligthen from "./lighten";
+import lighten from "./lighten";
 import darken from "./darken";
 import saturate from "./saturate";
 import desaturate from "./desaturate";
 
-export { ligthen, darken, saturate, desaturate, };
+export { lighten, darken, saturate, desaturate };
