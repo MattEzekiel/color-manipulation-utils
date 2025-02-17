@@ -1,9 +1,10 @@
 {
   "name": "color-manipulation-utils",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Check contrast of colors HEX",
   "main": "index.js",
   "types": "index.d.ts",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
@@ -40,10 +41,10 @@
   },
   "homepage": "https://github.com/MattEzekiel/color-manipulation-utils#readme",
   "devDependencies": {
-    "@types/color": "^4.2.0",
-    "typescript": "^5.5.3"
+    "@types/color": "4.2.0",
+    "typescript": "5.7.3"
   },
   "dependencies": {
-    "color": "^5.0.0"
+    "color": "5.0.0"
   }
 }
