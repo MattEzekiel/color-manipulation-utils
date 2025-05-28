@@ -6,7 +6,8 @@
   "types": "index.d.ts",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node --loader ts-node/esm test/test.ts",
+    "test:default": "node --loader ts-node/esm test/testDefault.ts",
     "build": "tsc"
   },
   "repository": {
@@ -42,7 +43,9 @@
   "homepage": "https://github.com/MattEzekiel/color-manipulation-utils#readme",
   "devDependencies": {
     "@types/color": "4.2.0",
-    "typescript": "5.8.3"
+    "@types/node": "^22.15.24",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
   },
   "dependencies": {
     "color": "5.0.0"
