@@ -45,6 +45,6 @@
     "typescript": "5.9.3"
   },
   "dependencies": {
-    "color": "5.0.2"
+    "color": "5.0.3"
   }
 }
