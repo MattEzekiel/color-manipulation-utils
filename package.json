@@ -1,6 +1,6 @@
 {
   "name": "color-manipulation-utils",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Check contrast of colors HEX",
   "main": "index.js",
   "types": "index.d.ts",
