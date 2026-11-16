@@ -137,3 +137,7 @@ dist
 package-lock.json
 
 review-receipts
+
+# Generated output
+*.js
+*.d.ts

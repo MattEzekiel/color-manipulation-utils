@@ -5,3 +5,4 @@
  * @returns The darkened color in hex format.
  */
 export declare function darken(color: string, coefficient: number): string;
+export default darken;

@@ -1,7 +1,7 @@
-import lighten from "../lighten/index";
-import darken from "../darken/index";
-import desaturate from "../desaturate";
-import saturate from "../saturate";
+import lighten from "../lighten/index.js";
+import darken from "../darken/index.js";
+import desaturate from "../desaturate/index.js";
+import saturate from "../saturate/index.js";
 
 console.log(lighten('#7a0f0f', 0.2));
 console.log(darken('#ffaf30', 0.2));
