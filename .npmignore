@@ -8,3 +8,8 @@ CONTRIBUTING.md
 LICENCE.md
 README.md
 .idea
+
+*.ts
+!*.d.ts
+tsconfig.json
+review-receipts/

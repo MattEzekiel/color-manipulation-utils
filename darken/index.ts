@@ -1,4 +1,4 @@
-import ensureHexFormat from "../ensureHexFormat";
+import ensureHexFormat from "../ensureHexFormat.js";
 import Color from "color";
 
 /**

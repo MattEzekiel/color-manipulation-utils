@@ -1,13 +1,37 @@
 {
   "name": "color-manipulation-utils",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "description": "Check contrast of colors HEX",
   "main": "index.js",
   "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    },
+    "./lighten": {
+      "types": "./lighten/index.d.ts",
+      "default": "./lighten/index.js"
+    },
+    "./darken": {
+      "types": "./darken/index.d.ts",
+      "default": "./darken/index.js"
+    },
+    "./saturate": {
+      "types": "./saturate/index.d.ts",
+      "default": "./saturate/index.js"
+    },
+    "./desaturate": {
+      "types": "./desaturate/index.d.ts",
+      "default": "./desaturate/index.js"
+    },
+    "./package.json": "./package.json"
+  },
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc"
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
   },
   "repository": {
     "type": "git",
