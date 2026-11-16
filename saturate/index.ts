@@ -1,5 +1,5 @@
 import Color from "color";
-import ensureHexFormat from "../ensureHexFormat";
+import ensureHexFormat from "../ensureHexFormat.js";
 
 /**
  * Lightens a color.
